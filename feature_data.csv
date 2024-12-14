@@ -1,0 +1,31 @@
+customer_id,age,income,education,occupation,credit_score,account_balance,num_transactions,avg_transaction,last_transaction_date,account_type,has_credit_card,is_active,churn
+1,35,65000,Bachelor,Engineer,720,15000,45,334,2023-01-15,Premium,Yes,Yes,No
+2,28,48000,High School,Sales,680,8500,32,266,2023-01-14,Standard,Yes,Yes,No
+3,42,85000,Master,Manager,750,25000,58,431,2023-01-13,Premium,Yes,Yes,No
+4,31,52000,Bachelor,Analyst,700,12000,38,316,2023-01-12,Standard,No,Yes,No
+5,45,92000,PhD,Director,780,35000,62,565,2023-01-11,Premium,Yes,Yes,No
+6,29,45000,High School,Clerk,650,5500,25,220,2023-01-10,Basic,No,No,Yes
+7,38,72000,Master,Consultant,730,18000,49,367,2023-01-09,Premium,Yes,Yes,No
+8,33,58000,Bachelor,Developer,710,13500,42,321,2023-01-08,Standard,Yes,Yes,No
+9,47,95000,Master,Executive,770,32000,65,492,2023-01-07,Premium,Yes,Yes,No
+10,26,42000,High School,Assistant,640,4800,22,218,2023-01-06,Basic,No,No,Yes
+11,36,68000,Bachelor,Manager,725,16500,47,351,2023-01-05,Premium,Yes,Yes,No
+12,41,78000,Master,Analyst,745,22000,54,407,2023-01-04,Premium,Yes,Yes,No
+13,30,51000,Bachelor,Developer,695,11500,36,319,2023-01-03,Standard,Yes,Yes,No
+14,44,88000,PhD,Researcher,760,28000,60,467,2023-01-02,Premium,Yes,Yes,No
+15,27,44000,High School,Sales,660,6200,28,221,2023-01-01,Basic,No,No,Yes
+16,39,75000,Master,Engineer,735,19500,51,382,2023-01-15,Premium,Yes,Yes,No
+17,32,56000,Bachelor,Analyst,705,12800,40,320,2023-01-14,Standard,Yes,Yes,No
+18,46,93000,Master,Director,775,33000,63,524,2023-01-13,Premium,Yes,Yes,No
+19,28,46000,High School,Clerk,655,5800,26,223,2023-01-12,Basic,No,No,Yes
+20,37,70000,Bachelor,Manager,728,17500,48,365,2023-01-11,Premium,Yes,Yes,No
+21,40,76000,Master,Consultant,740,21000,53,396,2023-01-10,Premium,Yes,Yes,No
+22,34,59000,Bachelor,Developer,715,14000,43,326,2023-01-09,Standard,Yes,Yes,No
+23,43,86000,PhD,Researcher,755,26000,59,441,2023-01-08,Premium,Yes,Yes,No
+24,25,41000,High School,Assistant,635,4500,21,214,2023-01-07,Basic,No,No,Yes
+25,38,73000,Master,Engineer,732,18500,50,370,2023-01-06,Premium,Yes,Yes,No
+26,31,54000,Bachelor,Analyst,698,12200,37,330,2023-01-05,Standard,Yes,Yes,No
+27,45,91000,Master,Executive,765,31000,64,484,2023-01-04,Premium,Yes,Yes,No
+28,29,47000,High School,Sales,658,6000,27,222,2023-01-03,Basic,No,No,Yes
+29,36,69000,Bachelor,Manager,726,17000,48,354,2023-01-02,Premium,Yes,Yes,No
+30,42,82000,Master,Director,748,24000,56,429,2023-01-01,Premium,Yes,Yes,No 

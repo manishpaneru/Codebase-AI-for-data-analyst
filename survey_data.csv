@@ -1,0 +1,31 @@
+response_id,date,response,rating,category
+1,2023-01-01,"The product quality is excellent, but the delivery took longer than expected. Overall satisfied with the purchase.",4,Product
+2,2023-01-02,"Customer service was very helpful in resolving my issue quickly. Great experience!",5,Service
+3,2023-01-03,"The website is confusing to navigate. Had trouble finding what I needed.",2,Website
+4,2023-01-04,"Love the new features in the mobile app. Makes shopping much easier.",5,App
+5,2023-01-05,"Product arrived damaged. Packaging needs improvement.",1,Product
+6,2023-01-06,"Very competitive prices compared to other retailers. Will shop again.",4,Price
+7,2023-01-07,"The checkout process is too complicated. Please simplify it.",2,Website
+8,2023-01-08,"Outstanding customer support team. They went above and beyond to help.",5,Service
+9,2023-01-09,"Product meets expectations but shipping costs are too high.",3,Price
+10,2023-01-10,"App keeps crashing when trying to make a purchase. Frustrating experience.",1,App
+11,2023-01-11,"Quality of the product is inconsistent. Some items are great, others not so much.",3,Product
+12,2023-01-12,"Easy returns process. No hassle at all.",4,Service
+13,2023-01-13,"Website search function needs improvement. Results are not relevant.",2,Website
+14,2023-01-14,"Great value for money. Products are reasonably priced.",4,Price
+15,2023-01-15,"App notifications are helpful for tracking orders.",4,App
+16,2023-01-16,"Product durability is excellent. Still working perfectly after months of use.",5,Product
+17,2023-01-17,"Long wait times for customer service during peak hours.",2,Service
+18,2023-01-18,"Website loads slowly on mobile devices.",2,Website
+19,2023-01-19,"Prices have increased significantly in recent months.",2,Price
+20,2023-01-20,"App interface is intuitive and user-friendly.",4,App
+21,2023-01-21,"Product quality has improved significantly over the past year.",4,Product
+22,2023-01-22,"Customer service representatives need better training.",2,Service
+23,2023-01-23,"Website checkout process is smooth and secure.",4,Website
+24,2023-01-24,"Good deals and discounts available regularly.",4,Price
+25,2023-01-25,"App needs more payment options.",3,App
+26,2023-01-26,"Product packaging is eco-friendly. Appreciate the sustainability effort.",5,Product
+27,2023-01-27,"Quick response from support team via email.",4,Service
+28,2023-01-28,"Website filter options are helpful for finding specific items.",4,Website
+29,2023-01-29,"Membership program provides good value for regular customers.",4,Price
+30,2023-01-30,"App works well but could use more features.",3,App 
