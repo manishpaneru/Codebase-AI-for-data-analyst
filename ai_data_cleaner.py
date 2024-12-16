@@ -1,18 +1,12 @@
 """
-AI-Powered Data Cleaning Script
-This script demonstrates how to leverage OpenAI's GPT models to clean messy datasets.
-It showcases various data cleaning techniques including:
-- Missing value imputation
-- Duplicate detection and removal
-- Typo correction
-- Data format standardization
+AI-Powered Data Cleaning Tool
+==========================
 
-The script reads from data.csv which contains intentionally messy data with common issues like:
-- Typos in names and cities (e.g., "Jhn Smth", "San Fransisco")
-- Missing values in Age and City columns
-- Inconsistent formatting in Occupation (e.g., "Software Engineeer" vs "Software Engineer")
-- Duplicate entries
-- Variations in city names ("San Francisco" vs "San Fran")
+This script provides advanced data cleaning capabilities using AI models.
+It helps identify and fix data quality issues automatically.
+
+Author: Sujal Dhungana , Manish Paneru
+License: MIT
 """
 
 import pandas as pd

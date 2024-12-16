@@ -1,17 +1,12 @@
 """
-AI-Powered Exploratory Data Analysis (EDA) Tool
-This script leverages OpenAI's GPT models to perform intelligent exploratory data analysis.
-It automatically generates:
-- Statistical summaries
-- Data quality reports
-- Relevant visualizations
-- Natural language insights
-- Correlation analysis
-- Distribution analysis
-- Outlier detection
+AI-Powered EDA Analysis Tool
+=========================
 
-The script uses AI to determine the most appropriate visualizations and analysis methods
-based on the data types and patterns it discovers in your dataset.
+This script provides automated exploratory data analysis capabilities.
+It helps analyze and visualize datasets using advanced AI techniques.
+
+Author: Sujal Dhungana , Manish Paneru
+License: MIT
 """
 
 import pandas as pd

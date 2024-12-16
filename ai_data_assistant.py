@@ -1,21 +1,11 @@
 """
-Custom AI Chatbot for Data Analysts Tutorial
-=========================================
+AI-Powered Data Assistant Tool
+===========================
 
-This script demonstrates how to build a specialized chatbot that assists data analysts
-with Python coding, SQL queries, statistical concepts, and data analysis tasks.
+This script provides an intelligent assistant for data analysis tasks.
+It helps automate common data analysis workflows and provides insights.
 
-Features:
-1. Code assistance for Python and SQL
-2. Statistical concept explanations
-3. Data analysis workflow guidance
-4. Best practices recommendations
-5. Interactive examples
-6. Context-aware responses
-7. Resource suggestions
-
-Author: [Your Name]
-Date: [Current Date]
+Author: Sujal Dhungana , Manish Paneru
 License: MIT
 """
 

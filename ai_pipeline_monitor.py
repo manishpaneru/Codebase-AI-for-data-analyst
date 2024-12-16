@@ -1,21 +1,11 @@
 """
-Real-Time Data Pipeline Monitoring Tutorial
-=======================================
+AI-Powered Pipeline Monitoring Tool
+================================
 
-This script demonstrates how to build an intelligent monitoring system for data
-pipelines that uses AI to detect anomalies, delays, and data quality issues.
+This script provides monitoring and analysis capabilities for data pipelines.
+It helps track pipeline performance and detect potential issues.
 
-Features:
-1. Real-time pipeline monitoring
-2. AI-powered anomaly detection
-3. Data quality checks
-4. Performance metrics tracking
-5. Smart alerting system
-6. Historical analysis
-7. Dashboard visualization
-
-Author: [Your Name]
-Date: [Current Date]
+Author: Sujal Dhungana , Manish Paneru
 License: MIT
 """
 

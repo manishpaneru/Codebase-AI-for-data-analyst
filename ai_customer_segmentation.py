@@ -1,21 +1,11 @@
 """
-AI-Powered Customer Segmentation Tutorial
-=====================================
+AI-Powered Customer Segmentation Tool
+==================================
 
-This script demonstrates how to build an intelligent customer segmentation system
-that uses clustering algorithms and NLP for customer profile generation.
+This script demonstrates advanced customer segmentation techniques using AI models.
+It helps identify and analyze distinct customer groups based on behavior patterns.
 
-Features:
-1. Data preprocessing
-2. Feature engineering
-3. Clustering analysis
-4. Profile generation
-5. Segment visualization
-6. Insights generation
-7. Interactive dashboard
-
-Author: [Your Name]
-Date: [Current Date]
+Author: Sujal Dhungana , Manish Paneru
 License: MIT
 """
 

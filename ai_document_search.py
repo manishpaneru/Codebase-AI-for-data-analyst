@@ -1,22 +1,11 @@
 """
-Document Search for Data Analysts Tutorial
-======================================
+AI-Powered Document Search Tool
+============================
 
-This script demonstrates how to build an intelligent document search system
-that helps data analysts find relevant documentation, guides, and research
-using semantic search and AI-powered insights.
+This script provides advanced document search capabilities using AI models.
+It enables intelligent search and retrieval of relevant documents.
 
-Features:
-1. Semantic document search
-2. Content summarization
-3. Relevance ranking
-4. Document categorization
-5. Interactive interface
-6. Search history tracking
-7. Export capabilities
-
-Author: [Your Name]
-Date: [Current Date]
+Author: Sujal Dhungana , Manish Paneru
 License: MIT
 """
 

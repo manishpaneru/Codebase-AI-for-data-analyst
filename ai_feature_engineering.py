@@ -1,21 +1,11 @@
 """
-AI-Powered Feature Engineering Tutorial
-===================================
+AI-Powered Feature Engineering Tool
+================================
 
-This script demonstrates how to use AI to automate and enhance feature engineering
-for machine learning models, including feature creation, selection, and encoding.
+This script demonstrates advanced feature engineering techniques using AI models.
+It helps create and select optimal features for machine learning models.
 
-Features:
-1. Automated feature generation
-2. Feature importance analysis
-3. Intelligent feature selection
-4. Smart encoding strategies
-5. Feature interaction discovery
-6. Dimensionality reduction
-7. Feature validation
-
-Author: [Your Name]
-Date: [Current Date]
+Author: Sujal Dhungana , Manish Paneru
 License: MIT
 """
 

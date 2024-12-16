@@ -1,21 +1,11 @@
 """
-AI for Ethical Data Analysis Tutorial
-=================================
+AI Ethics Analysis Tool
+=====================
 
-This script demonstrates how to use AI to identify and mitigate bias in datasets,
-ensuring fair and ethical data analysis practices.
+This script provides tools for analyzing AI systems for ethical considerations
+and potential biases. It helps identify and mitigate ethical risks in AI applications.
 
-Features:
-1. Bias detection
-2. Fairness metrics
-3. Bias mitigation
-4. Impact analysis
-5. Recommendations
-6. Documentation
-7. Monitoring
-
-Author: [Your Name]
-Date: [Current Date]
+Author: Sujal Dhungana , Manish Paneru
 License: MIT
 """
 

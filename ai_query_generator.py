@@ -1,21 +1,11 @@
 """
-AI-Powered SQL Query Generator Tutorial
-====================================
+AI-Powered Query Generator Tool
+============================
 
-This script demonstrates how to convert natural language questions into SQL queries
-using OpenAI's GPT models. It helps analysts generate SQL queries without needing
-to remember exact syntax.
+This script helps generate and optimize database queries using AI.
+It provides intelligent query suggestions and optimization tips.
 
-Features:
-1. Natural language to SQL conversion
-2. Query validation and safety checks
-3. Query explanation
-4. Schema inference
-5. Query optimization suggestions
-6. Support for complex joins and aggregations
-
-Author: [Your Name]
-Date: [Current Date]
+Author: Sujal Dhungana , Manish Paneru
 License: MIT
 """
 

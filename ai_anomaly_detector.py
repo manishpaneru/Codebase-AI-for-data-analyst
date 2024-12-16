@@ -14,8 +14,7 @@ Methods demonstrated:
 5. Time series decomposition
 6. Ensemble approach
 
-Author: [Your Name]
-Date: [Current Date]
+Author: Sujal Dhungana , Manish Paneru
 License: MIT
 """
 

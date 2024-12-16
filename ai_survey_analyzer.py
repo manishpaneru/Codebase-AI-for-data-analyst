@@ -1,22 +1,11 @@
 """
-AI-Powered Survey Analysis Tutorial
-================================
+AI-Powered Survey Analysis Tool
+============================
 
-This script demonstrates how to analyze survey responses using AI techniques,
-including theme extraction, sentiment analysis, and clustering to identify
-patterns and insights in survey data.
+This script provides advanced analysis capabilities for survey data.
+It helps extract insights and patterns from survey responses.
 
-Features:
-1. Text preprocessing and cleaning
-2. Theme extraction using LLMs
-3. Sentiment analysis
-4. Response clustering
-5. Insight generation
-6. Interactive visualization
-7. Report generation
-
-Author: [Your Name]
-Date: [Current Date]
+Author: Sujal Dhungana , Manish Paneru
 License: MIT
 """
 

@@ -1,20 +1,11 @@
 """
-AI-Assisted Predictive Modeling Tutorial
-=======================================
+AI-Powered Predictive Modeling Tool
+================================
 
-This script demonstrates how to use AI to assist in building and optimizing predictive models.
-It covers a complete machine learning pipeline with AI assistance at each step:
+This script provides advanced predictive modeling capabilities using AI.
+It helps build and evaluate machine learning models for various tasks.
 
-1. Data Preprocessing and Feature Engineering
-2. Model Selection
-3. Hyperparameter Optimization
-4. Model Evaluation and Interpretation
-
-The script uses a loan default prediction dataset as an example, but the techniques
-can be applied to any binary classification problem (e.g., churn prediction).
-
-Author: [Your Name]
-Date: [Current Date]
+Author: Sujal Dhungana , Manish Paneru
 License: MIT
 """
 

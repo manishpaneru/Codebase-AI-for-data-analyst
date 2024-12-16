@@ -1,20 +1,11 @@
 """
-AI-Powered Real-Time Dashboard Tutorial
-=====================================
+AI-Powered Dashboard Application
+============================
 
-This script demonstrates how to create an interactive dashboard using Streamlit
-where users can upload datasets and get AI-powered insights and visualizations.
+This script creates an intelligent dashboard for data visualization and analysis.
+It provides interactive visualizations and AI-powered insights.
 
-The dashboard includes:
-1. Data upload and preview
-2. Automated data profiling
-3. AI-generated insights
-4. Dynamic visualizations
-5. Pattern detection
-6. Correlation analysis
-
-Author: [Your Name]
-Date: [Current Date]
+Author: Sujal Dhungana , Manish Paneru
 License: MIT
 """
 

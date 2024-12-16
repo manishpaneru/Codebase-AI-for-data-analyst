@@ -1,20 +1,12 @@
 """
 AI-Powered Text Analysis Tool
-This script performs comprehensive analysis of customer reviews using advanced NLP techniques.
-It combines multiple AI models to:
-- Extract sentiment and emotions
-- Identify key topics and themes
-- Categorize feedback
-- Generate actionable insights
-- Detect urgent issues
-- Summarize feedback trends
-- Extract product/service aspects
+==========================
 
-The script leverages:
-- GPT-4 for advanced analysis and insight generation
-- Hugging Face transformers for sentiment analysis
-- spaCy for NLP tasks
-- NLTK for text preprocessing
+This script demonstrates advanced text analysis capabilities using AI models.
+It showcases various NLP techniques and AI-powered analysis features.
+
+Author: Sujal Dhungana , Manish Paneru
+License: MIT
 """
 
 import pandas as pd

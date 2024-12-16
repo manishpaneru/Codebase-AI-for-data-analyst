@@ -1,21 +1,11 @@
 """
-AI-Powered KPI Tracking Tutorial
-==============================
+AI-Powered KPI Tracking Tool
+=========================
 
-This script demonstrates how to build an intelligent KPI tracking system that not only
-monitors key performance indicators but also provides AI-powered insights and
-recommendations for improvement.
+This script provides intelligent tracking and analysis of Key Performance Indicators.
+It helps monitor and analyze KPIs using advanced AI techniques.
 
-Features:
-1. Automated KPI calculation and tracking
-2. Trend analysis and forecasting
-3. AI-powered insights and recommendations
-4. Interactive dashboard
-5. Anomaly detection
-6. Goal tracking and alerts
-
-Author: [Your Name]
-Date: [Current Date]
+Author: Sujal Dhungana , Manish Paneru
 License: MIT
 """
 
