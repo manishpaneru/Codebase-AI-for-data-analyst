@@ -1,4 +1,4 @@
-# AI-Powered Data Analysis Course
+# AI For Everyone
 ### Data Profession Academy
 
 ![Data Profession Academy](https://img.shields.io/badge/Data_Profession-Academy-blue)
